@@ -114,7 +114,5 @@ The goal is to assign colors to regions on a map such that:
 
 ---
 
-## License
-This project is licensed under the MIT License.
-```
+
 
