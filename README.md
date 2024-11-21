@@ -109,8 +109,9 @@ The goal is to assign colors to regions on a map such that:
 ---
 
 ## Contributors
-- **Maram Abdullah Al-Nuaimi** (16S1967)
 - **Mohammed Amour Al-Marshudi** (16S194)
+- **Maram Abdullah Al-Nuaimi** (16S1967)
+
 
 ---
 
