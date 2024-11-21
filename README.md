@@ -1,6 +1,5 @@
-Here's a comprehensive `README.md` file based on the details in the PDF:
 
-```markdown
+
 # Map Coloring (Backtracking Search)
 
 ## Overview
@@ -79,7 +78,7 @@ The goal is to assign colors to regions on a map such that:
    print("2. Show Oman (11 states) using CSP Backtracking")
    print("3. Show Australia (7 states) using CSP Backtracking")
    num = int(input("Enter: "))
-   ```
+
 
 ---
 
