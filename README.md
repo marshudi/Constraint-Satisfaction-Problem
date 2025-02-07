@@ -32,12 +32,12 @@ The goal is to assign colors to regions on a map such that:
 - **Constraints Satisfied**:
   - Using 4-color domains.
   - Output assigns valid colors to all regions.
-   ![image](https://github.com/user-attachments/assets/521c2c9d-9c5f-4fe5-99da-612100552c7f)
+  - ![image](https://github.com/user-attachments/assets/521c2c9d-9c5f-4fe5-99da-612100552c7f)
 
 - **Constraints Not Satisfied**:
   - Using 2-color domains.
   - Some regions remain uncolored.
-   ![image](https://github.com/user-attachments/assets/9577d551-c99d-4ca1-b28e-b4e4d7202383)
+  - ![image](https://github.com/user-attachments/assets/9577d551-c99d-4ca1-b28e-b4e4d7202383)
 
 
 ### 2. Oman States
